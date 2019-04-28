@@ -50,7 +50,7 @@ items:
         - name: JScript and VBScript Arrays
           href: 2003/9/22/jscript-and-vbscript-arrays.md
         - name: >-
-                "For Each" vs. for in"
+                "For Each" vs. "for in"
           href: 2003/9/22/for-each-vs-for-in.md
         - name: Running Me Ragged
           href: 2003/9/22/running-me-ragged.md
@@ -144,4 +144,1797 @@ items:
           href: 2003/10/29/global-state-on-servers-considered-harmful.md
         - name: Functions are not frames
           href: 2003/10/31/functions-are-not-frames.md
-   
+    - name: November
+      items:
+        - name: Eval is Evil, Part One
+          href: 2003/11/1/eval-is-evil-part-one.md
+        - name: A Parable
+          href: 2003/11/3/a-parable.md
+        - name: Eval is Evil, Part Two
+          href: 2003/11/4/eval-is-evil-part-two.md
+        - name: The JScript Type System, Part One
+          href: 2003/11/5/the-jscript-type-system-part-one.md
+        - name: What Is The Matrix?
+          href: 2003/11/5/what-is-the-matrix.md
+        - name: >-
+                The JScript Type System, Part Two: Prototypes and constructors
+          href: 2003/11/6/the-jscript-type-system-part-two-prototypes-and-constructors.md
+        - name: >-
+                The JScript Type System, Part Three: If It Walks Like A Duck...
+          href: 2003/11/6/the-jscript-type-system-part-three-if-it-walks-like-a-duck.md
+        - name: >-
+                The JScript Type System, Part Four: JScript .NET Arrays
+          href: 2003/11/10/the-jscript-type-system-part-four-jscript-net-arrays.md
+        - name: >-
+                The JScript Type System, Part Five: More On Arrays In JScript .NET
+          href: 2003/11/12/the-jscript-type-system-part-five-more-on-arrays-in-jscript-net.md
+        - name: >-
+                The JScript Type System, Part Six: Even more on arrays in JScript .NET
+          href: 2003/11/14/the-jscript-type-system-part-six-even-more-on-arrays-in-jscript-net.md
+        - name: Thin To My Chagrin
+          href: 2003/11/18/thin-to-my-chagrin.md
+        - name: >-
+                The JScript Type System Part Seven: Yeah, you've probably guessed that I wrote the array stuff
+          href: 2003/11/21/the-jscript-type-system-part-seven-yeah-youve-probably-guessed-that-i-wrote-the-array-stuff.md
+        - name: Experience Required
+          href: 2003/11/24/experience-required.md
+    - name: December
+      items:
+        - name: Speeding Can Slow You Down
+          href: 2003/12/1/speeding-can-slow-you-down.md
+        - name: Six out of ten ain't bad
+          href: 2003/12/2/six-out-of-ten-aint-bad.md
+        - name: A Grammatical Aside
+          href: 2003/12/2/a-grammatical-aside.md
+        - name: >-
+                The JScript Type System Part Eight: The Last Blog Entry About Arrays, I Promise
+          href: 2003/12/5/the-jscript-type-system-part-eight-the-last-blog-entry-about-arrays-i-promise.md
+        - name: >-
+                Heads up: Fabulous Adventures will be moving
+          href: 2003/12/5/heads-up-fabulous-adventures-will-be-moving.md
+        - name: Once More Into The Breach
+          href: 2003/12/11/once-more-into-the-breach.md
+        - name: Multi-cast delegates the evil way
+          href: 2003/12/12/multi-cast-delegates-the-evil-way.md
+  - name: All of 2004
+    items:
+    - name: January
+      items:
+        - name: Virtual Methods and Brittle Base Classes
+          href: 2004/1/7/virtual-methods-and-brittle-base-classes.md
+        - name: VBScript is to VB as Cheese is to...?
+          href: 2004/1/8/vbscript-is-to-vb-as-cheese-is-to.md
+        - name: >-
+                Code Security Part One: Code Security and IE
+          href: 2004/1/9/code-security-part-one-code-security-and-ie.md
+        - name: Welcome to blogs.msdn.com.
+          href: 2004/1/9/welcome-to-blogs-msdn-com.md
+        - name: >-
+                Script And IE Security Part Two: Digging Deeper
+          href: 2004/1/13/script-and-ie-security-part-two-digging-deeper.md
+        - name: Can you fix my computer?
+          href: 2004/1/13/can-you-fix-my-computer.md
+        - name: >-
+                Script And IE Security Part Three: Some Object Creation Techniques Are Explicitly Forbidden
+          href: 2004/1/14/script-and-ie-security-part-three-some-object-creation-techniques-are-explicitly-forbidden.md
+        - name: >-
+                Script And IE Security Part Four: Creating Objects Without The IE Security Manager
+          href: 2004/1/15/script-and-ie-security-part-four-creating-objects-without-the-ie-security-manager.md
+        - name: >-
+                Script In IE Security Part Five: Creating Objects With The IE Security Manager
+          href: 2004/1/20/script-in-ie-security-part-five-creating-objects-with-the-ie-security-manager.md
+        - name: >-
+                Script In IE Security Part Six: Creating Objects With State
+          href: 2004/1/21/script-in-ie-security-part-six-creating-objects-with-state.md
+        - name: The Triumphant Return of Clinick's Clinic
+          href: 2004/1/21/the-triumphant-return-of-clinicks-clinic.md
+        - name: >-
+                Script And IE Security Part Seven: Other Stuff
+          href: 2004/1/22/script-and-ie-security-part-seven-other-stuff.md
+        - name: Why Are So Many Of The Framework Classes Sealed?
+          href: 2004/1/22/why-are-so-many-of-the-framework-classes-sealed.md
+        - name: >-
+                Script And IE Security Part Eight: IDispatchEx
+          href: 2004/1/23/script-and-ie-security-part-eight-idispatchex.md
+        - name: Eval is Evil, Part Three
+          href: 2004/1/26/eval-is-evil-part-three.md
+        - name: Laugh While You Can, Monkey Boy!
+          href: 2004/1/27/laugh-while-you-can-monkey-boy.md
+    - name: February
+      items:
+        - name: Quibbling Over Semicolons
+          href: 2004/2/2/quibbling-over-semicolons.md
+        - name: JScript, IE Behaviours and instanceof Redux
+          href: 2004/2/4/jscript-ie-behaviours-and-instanceof-redux.md
+        - name: Ow! My Foot!
+          href: 2004/2/5/ow-my-foot.md
+        - name: Unicode output and the Windows Script Host
+          href: 2004/2/11/unicode-output-and-the-windows-script-host.md
+        - name: True Confessions of a Language Developer
+          href: 2004/2/11/true-confessions-of-a-language-developer.md
+        - name: Quotable Quotations
+          href: 2004/2/12/quotable-quotations.md
+        - name: How Does Script Debugging Work Internally?
+          href: 2004/2/15/how-does-script-debugging-work-internally.md
+        - name: The Tragedy of Thread Happiness Disease
+          href: 2004/2/15/the-tragedy-of-thread-happiness-disease.md
+        - name: VBScript and JScript Don't Mix, at least in ASP
+          href: 2004/2/19/vbscript-and-jscript-dont-mix-at-least-in-asp.md
+        - name: Randomness
+          href: 2004/2/23/randomness.md
+        - name: Table Driven Programming
+          href: 2004/2/24/table-driven-programming.md
+        - name: WSF Files, Pedagogic Code, and Lippert's Paradox
+          href: 2004/2/25/wsf-files-pedagogic-code-and-lipperts-paradox.md
+        - name: What's the difference?
+          href: 2004/2/26/whats-the-difference.md
+        - name: Mooooore's Laaaaaaw!
+          href: 2004/2/27/mooooores-laaaaaaw.md
+    - name: March
+      items:
+        - name: Syntax, Semantics, Micronesian cults and Novice Programmers
+          href: 2004/3/1/syntax-semantics-micronesian-cults-and-novice-programmers.md
+        - name: VSTO 2.0, coming soon to an IT department near you
+          href: 2004/3/1/vsto-2-0-coming-soon-to-an-it-department-near-you.md
+        - name: Cargo Cultists, Part Two
+          href: 2004/3/2/cargo-cultists-part-two.md
+        - name: >-
+                Cargo Cultists, Part Three: Is Mort A Cargo Cultist?
+          href: 2004/3/2/cargo-cultists-part-three-is-mort-a-cargo-cultist.md
+        - name: Script Documentation and the Line Of Business Developer
+          href: 2004/3/3/script-documentation-and-the-line-of-business-developer.md
+        - name: Metaprogramming, Toast and the Future of Development Tools
+          href: 2004/3/4/metaprogramming-toast-and-the-future-of-development-tools.md
+        - name: >-
+                Cargo Cultism, Part Four: Other Disciplines
+          href: 2004/3/4/cargo-cultism-part-four-other-disciplines.md
+        - name: The Fundamental Question of Biology
+          href: 2004/3/8/the-fundamental-question-of-biology.md
+        - name: OOP = Obviously Oxmoronic Posting
+          href: 2004/3/8/oop-obviously-oxmoronic-posting.md
+        - name: >-
+                Aargh, Part One: A Pirate Walks Into A Bar…
+          href: 2004/3/10/aargh-part-one-a-pirate-walks-into-a-bar.md
+        - name: Top Minds Are Working On It
+          href: 2004/3/11/top-minds-are-working-on-it.md
+        - name: Denne funksjonen er fullstendig ubrukelig!
+          href: 2004/3/12/denne-funksjonen-er-fullstendig-ubrukelig.md
+        - name: Things in my eyes!
+          href: 2004/3/15/things-in-my-eyes.md
+        - name: I'm Putting On My Top Hat, Tying Up My White Tie, Brushing Out My Tails -- In That Order
+          href: 2004/3/16/im-putting-on-my-top-hat-tying-up-my-white-tie-brushing-out-my-tails-in-that-order.md
+        - name: Attack of the Undead Cycle Detector
+          href: 2004/3/17/attack-of-the-undead-cycle-detector.md
+        - name: School Days, School Days
+          href: 2004/3/18/school-days-school-days.md
+        - name: School days, part two
+          href: 2004/3/19/school-days-part-two.md
+        - name: Revenge of The Cycle Detector
+          href: 2004/3/22/revenge-of-the-cycle-detector.md
+        - name: Aaargh!  Part Two
+          href: 2004/3/23/aaargh-part-two.md
+        - name: I'm A Travelin' Man
+          href: 2004/3/23/im-a-travelin-man.md
+        - name: Aaargh! Part Three
+          href: 2004/3/25/aaargh-part-three.md
+        - name: Strolling Around VSLive
+          href: 2004/3/26/strolling-around-vslive.md
+        - name: >-
+                Aargh, Part Four: There is no part four
+          href: 2004/3/29/aargh-part-four-there-is-no-part-four.md
+        - name: SimpleScript, Part Zero
+          href: 2004/3/29/simplescript-part-zero.md
+        - name: SimpleScript.def
+          href: 2004/3/31/simplescript-def.md
+        - name: headers.h
+          href: 2004/3/31/headers-h.md
+        - name: guids.h
+          href: 2004/3/31/guids-h.md
+        - name: assert.h
+          href: 2004/3/31/assert-h.md
+        - name: guids.cpp
+          href: 2004/3/31/guids-cpp.md
+        - name: assert.cpp
+          href: 2004/3/31/assert-cpp.md
+        - name: dllmain.cpp
+          href: 2004/3/31/dllmain-cpp.md
+        - name: >-
+                SimpleScript Part One: DllMain is Boring
+          href: 2004/3/31/simplescript-part-one-dllmain-is-boring.md
+    - name: April
+      items:
+        - name: classfac.cpp
+          href: 2004/4/1/classfac-cpp.md
+        - name: classfac.h
+          href: 2004/4/1/classfac-h.md
+        - name: dllmain.h
+          href: 2004/4/1/dllmain-h.md
+        - name: Gretchen and Zoe are cool
+          href: 2004/4/1/gretchen-and-zoe-are-cool.md
+        - name: >-
+                SimpleScript Part Two: Class Factories Are Also Boring
+          href: 2004/4/1/simplescript-part-two-class-factories-are-also-boring.md
+        - name: Customer Service Is Not Rocket Science
+          href: 2004/4/4/customer-service-is-not-rocket-science.md
+        - name: engine.cpp
+          href: 2004/4/5/engine-cpp.md
+        - name: engine.h
+          href: 2004/4/5/engine-h.md
+        - name: >-
+                SimpleScript Part Three: Engine Skeleton
+          href: 2004/4/5/simplescript-part-three-engine-skeleton.md
+        - name: A Face Made For Email
+          href: 2004/4/6/a-face-made-for-email.md
+        - name: Rumours of VBScript's Death Have Been Greatly Exaggerated
+          href: 2004/4/9/rumours-of-vbscripts-death-have-been-greatly-exaggerated.md
+        - name: Plumbing the Depths of .NET For Office
+          href: 2004/4/9/plumbing-the-depths-of-net-for-office.md
+        - name: >-
+                SimpleScript Part Four: Finite State Machines and Script Engines
+          href: 2004/4/10/simplescript-part-four-finite-state-machines-and-script-engines.md
+        - name: Quotable Quotations, Part Two
+          href: 2004/4/13/quotable-quotations-part-two.md
+        - name: Writing Code On Whiteboards Is Hard
+          href: 2004/4/15/writing-code-on-whiteboards-is-hard.md
+        - name: Runtime Typing in VBScript
+          href: 2004/4/19/runtime-typing-in-vbscript.md
+        - name: hash.cpp
+          href: 2004/4/19/hash-cpp.md
+        - name: hash.h
+          href: 2004/4/19/hash-h.md
+        - name: mutex.cpp
+          href: 2004/4/19/mutex-cpp.md
+        - name: mutex.h
+          href: 2004/4/19/mutex-h.md
+        - name: nameditemlist.cpp
+          href: 2004/4/19/nameditemlist-cpp.md
+        - name: nameditemlist.h
+          href: 2004/4/19/nameditemlist-h.md
+        - name: You Are Thrilled To Read Today's Blog Entry
+          href: 2004/4/20/you-are-thrilled-to-read-todays-blog-entry.md
+        - name: >-
+                SimpleScript Part Five: Named Items and Modules
+          href: 2004/4/22/simplescript-part-five-named-items-and-modules.md
+        - name: >-
+                SimpleScript Part Six: Threading Technicalities
+          href: 2004/4/26/simplescript-part-six-threading-technicalities.md
+        - name: When Are You Required To Set Objects To Nothing?
+          href: 2004/4/28/when-are-you-required-to-set-objects-to-nothing.md
+    - name: May
+      items:
+        - name: binder.cpp
+          href: 2004/5/4/binder-cpp.md
+        - name: binder.h
+          href: 2004/5/4/binder-h.md
+        - name: invoke.cpp
+          href: 2004/5/4/invoke-cpp.md
+        - name: invoke.h
+          href: 2004/5/4/invoke-h.md
+        - name: >-
+                SimpleScript Part Seven: Binder Skeleton
+          href: 2004/5/4/simplescript-part-seven-binder-skeleton.md
+        - name: >-
+                Aargh, Part Five: Comment Rot
+          href: 2004/5/4/aargh-part-five-comment-rot.md
+        - name: >-
+                Aaargh, Part Six: One More Thing About Comments
+          href: 2004/5/5/aaargh-part-six-one-more-thing-about-comments.md
+        - name: Some LΘ℃αℓization Questions
+          href: 2004/5/10/some-lization-questions.md
+        - name: Riddle me this, Google
+          href: 2004/5/11/riddle-me-this-google.md
+        - name: The Rarefied Heights of Mathematical Purity
+          href: 2004/5/12/the-rarefied-heights-of-mathematical-purity.md
+        - name: The Stygian Depths Of Hacked-Together Scripts
+          href: 2004/5/13/the-stygian-depths-of-hacked-together-scripts.md
+        - name: Dude, Where's My Asymptotic Order Analysis?
+          href: 2004/5/14/dude-wheres-my-asymptotic-order-analysis.md
+        - name: JScript, Localization and Those Wacky Newfoundlanders
+          href: 2004/5/18/jscript-localization-and-those-wacky-newfoundlanders.md
+        - name: How Not To Teach Recursion
+          href: 2004/5/19/how-not-to-teach-recursion.md
+        - name: Results Of The Fibonacci Challenge Are In
+          href: 2004/5/20/results-of-the-fibonacci-challenge-are-in.md
+        - name: >-
+                Original: When Are You Required To Set Objects To Nothing?
+          href: 2004/5/21/original-when-are-you-required-to-set-objects-to-nothing.md
+        - name: Revisionist History
+          href: 2004/5/21/revisionist-history.md
+        - name: You Can't Convert Data Structures To Strings In VBScript Without Breaking A Few Eggs
+          href: 2004/5/25/you-cant-convert-data-structures-to-strings-in-vbscript-without-breaking-a-few-eggs.md
+        - name: JScript .NET Classes Are Serializable -- Surprise!
+          href: 2004/5/26/jscript-net-classes-are-serializable-surprise.md
+        - name: Marshal-by-ref versus Serializable Objects
+          href: 2004/5/27/marshal-by-ref-versus-serializable-objects.md
+    - name: June
+      items:
+        - name: What's the Difference between WScript.CreateObject, Server.CreateObject and CreateObject?
+          href: 2004/6/1/whats-the-difference-between-wscript-createobject-server-createobject-and-createobject.md
+        - name: Rarefied Heights Part Two, Plus Some Random Short Takes
+          href: 2004/6/2/rarefied-heights-part-two-plus-some-random-short-takes.md
+        - name: Aargh! Part Seven
+          href: 2004/6/4/aargh-part-seven.md
+        - name: A JScript .NET Design Donnybrook
+          href: 2004/6/7/a-jscript-net-design-donnybrook.md
+        - name: A JScript .NET Design Donnybrook, Part Two
+          href: 2004/6/8/a-jscript-net-design-donnybrook-part-two.md
+        - name: >-
+                VBScript Trivia: Bracket Identifiers and Reserved Word Incompatibilities
+          href: 2004/6/10/vbscript-trivia-bracket-identifiers-and-reserved-word-incompatibilities.md
+        - name: Reading Code Is Hard
+          href: 2004/6/14/reading-code-is-hard.md
+        - name: Reading Code Is Hard, Part Two
+          href: 2004/6/15/reading-code-is-hard-part-two.md
+        - name: Quotable Quotations, Part Three
+          href: 2004/6/16/quotable-quotations-part-three.md
+        - name: Some Quick Notes On Variable Scoping
+          href: 2004/6/18/some-quick-notes-on-variable-scoping.md
+        - name: Going Dark
+          href: 2004/6/21/going-dark.md
+    - name: July
+      items:
+        - name: What I Did On My Summer Vacation
+          href: 2004/7/12/what-i-did-on-my-summer-vacation.md
+        - name: Eric's Complete Guide To Type Signatures Of Scriptable Object Models
+          href: 2004/7/14/erics-complete-guide-to-type-signatures-of-scriptable-object-models.md
+        - name: Not Logical Is VBScript
+          href: 2004/7/15/not-logical-is-vbscript.md
+        - name: Why no ++?
+          href: 2004/7/19/why-no.md
+        - name: Recursion and Dynamic Programming
+          href: 2004/7/21/recursion-and-dynamic-programming.md
+        - name: Aargh! Part Eight, plus Boring Metablogging
+          href: 2004/7/23/aargh-part-eight-plus-boring-metablogging.md
+        - name: JScript Equality Operators, plus More On Mad Crushes
+          href: 2004/7/26/jscript-equality-operators-plus-more-on-mad-crushes.md
+        - name: VSTO Web Cast On Tuesday
+          href: 2004/7/26/vsto-web-cast-on-tuesday.md
+        - name: Pop Quiz
+          href: 2004/7/29/pop-quiz.md
+        - name: Typing Hard Can Trip You Up
+          href: 2004/7/30/typing-hard-can-trip-you-up.md
+    - name: August
+      items:
+        - name: JScript .NET Type Coercion Semantics
+          href: 2004/8/2/jscript-net-type-coercion-semantics.md
+        - name: >-
+                JScript .NET Type Coercion Semantics, Part Two: Promotability
+          href: 2004/8/4/jscript-net-type-coercion-semantics-part-two-promotability.md
+        - name: >-
+                JScript .NET Type Coercion Semantics, Part Three: Assignability
+          href: 2004/8/6/jscript-net-type-coercion-semantics-part-three-assignability.md
+        - name: >-
+                JScript .NET Type Coercion Semantics, Part Four: Coercion at last
+          href: 2004/8/10/jscript-net-type-coercion-semantics-part-four-coercion-at-last.md
+        - name: Math is Everywhere
+          href: 2004/8/11/math-is-everywhere.md
+        - name: Spot the Defect, Part Two
+          href: 2004/8/16/spot-the-defect-part-two.md
+        - name: Solution to Spot the Defect Part Two
+          href: 2004/8/17/solution-to-spot-the-defect-part-two.md
+        - name: The Attribute Of Manliness
+          href: 2004/8/18/the-attribute-of-manliness.md
+        - name: Error Handling in VBScript, Part One
+          href: 2004/8/19/error-handling-in-vbscript-part-one.md
+        - name: I Have A Mysterious Fifth Sense
+          href: 2004/8/20/i-have-a-mysterious-fifth-sense.md
+        - name: Error Handling In VBScript, Part Two
+          href: 2004/8/23/error-handling-in-vbscript-part-two.md
+        - name: Error Handling in VBScript, Part Three
+          href: 2004/8/25/error-handling-in-vbscript-part-three.md
+        - name: >-
+                Riddle Me This, Google: Part Two
+          href: 2004/8/27/riddle-me-this-google-part-two.md
+        - name: Putting Your Own Hex On Your VBScript
+          href: 2004/8/30/putting-your-own-hex-on-your-vbscript.md
+    - name: September
+      items:
+        - name: >-
+                "Finally" Does Not Mean "Immediately"
+          href: 2004/9/1/finally-does-not-mean-immediately.md
+        - name: >-
+                Hostile Exception Filter vs Benign Assert: Who will win?
+          href: 2004/9/8/hostile-exception-filter-vs-benign-assert-who-will-win.md
+        - name: Thirty Years of Backwards Compatibility
+          href: 2004/9/9/thirty-years-of-backwards-compatibility.md
+        - name: The Postmodern Gumballs
+          href: 2004/9/13/the-postmodern-gumballs.md
+        - name: JScript, DNA, and Mad Cow Disease
+          href: 2004/9/15/jscript-dna-and-mad-cow-disease.md
+        - name: Use vs. Mention in JScript Doesn't Come For Free
+          href: 2004/9/20/use-vs-mention-in-jscript-doesnt-come-for-free.md
+        - name: Breadth is sometimes better than depth
+          href: 2004/9/27/breadth-is-sometimes-better-than-depth.md
+    - name: October
+      items:
+        - name: Anthimeria weirds languages
+          href: 2004/10/1/anthimeria-weirds-languages.md
+        - name: Wherefore IDispatchEx?
+          href: 2004/10/7/wherefore-idispatchex.md
+        - name: Google Desktop On The Cheap, Part Zero
+          href: 2004/10/18/google-desktop-on-the-cheap-part-zero.md
+        - name: >-
+                Google Desktop On The Cheap Part One: Nope, That Doesn't Work
+          href: 2004/10/20/google-desktop-on-the-cheap-part-one-nope-that-doesnt-work.md
+        - name: The National Coin Flipping League Championship Series
+          href: 2004/10/21/the-national-coin-flipping-league-championship-series.md
+    - name: November
+      items:
+        - name: Democracy in Action
+          href: 2004/11/3/democracy-in-action.md
+        - name: Bouncing Zero Bugs, Together
+          href: 2004/11/15/bouncing-zero-bugs-together.md
+        - name: Mexican Weddings, Medieval Warfare and Being Digital
+          href: 2004/11/30/mexican-weddings-medieval-warfare-and-being-digital.md
+    - name: December
+      items:
+        - name: Integer Arithmetic In VBScript, Part One
+          href: 2004/12/1/integer-arithmetic-in-vbscript-part-one.md
+        - name: Integer Arithmetic in VBScript, Part Two
+          href: 2004/12/3/integer-arithmetic-in-vbscript-part-two.md
+        - name: Why do built-in JScript functions not appear in the typeinfo?
+          href: 2004/12/6/why-do-built-in-jscript-functions-not-appear-in-the-typeinfo.md
+        - name: VBScript Constants Are Not Hoisted
+          href: 2004/12/7/vbscript-constants-are-not-hoisted.md
+        - name: Ologiology
+          href: 2004/12/8/ologiology.md
+        - name: Whidbey Island And Bagel Mathematics
+          href: 2004/12/15/whidbey-island-and-bagel-mathematics.md
+        - name: The Cultural Politics of Code Reviews
+          href: 2004/12/16/the-cultural-politics-of-code-reviews.md
+        - name: >-
+                T4: VBScript and the Terminator
+          href: 2004/12/22/t4-vbscript-and-the-terminator.md
+        - name: VBScript Terminators, Part Two
+          href: 2004/12/29/vbscript-terminators-part-two.md
+  - name: All of 2005
+    items:
+    - name: January
+      items:
+        - name: Riddle Me This, Google, Part Three
+          href: 2005/1/5/riddle-me-this-google-part-three.md
+        - name: Floating Point Arithmetic, Part One
+          href: 2005/1/10/floating-point-arithmetic-part-one.md
+        - name: Still Scratching The Surface
+          href: 2005/1/11/still-scratching-the-surface.md
+        - name: Benford's Law
+          href: 2005/1/12/benfords-law.md
+        - name: Floating Point And Benford's Law, Part Two
+          href: 2005/1/13/floating-point-and-benfords-law-part-two.md
+        - name: Straight from the source
+          href: 2005/1/14/straight-from-the-source.md
+        - name: Fun With Floating Point Arithmetic, Part Three
+          href: 2005/1/17/fun-with-floating-point-arithmetic-part-three.md
+        - name: Fun with Floating Point Arithmetic, Part Four
+          href: 2005/1/18/fun-with-floating-point-arithmetic-part-four.md
+        - name: Fun with Floating Point Arithmetic, Part Five
+          href: 2005/1/20/fun-with-floating-point-arithmetic-part-five.md
+        - name: That's a Big Transistor
+          href: 2005/1/21/thats-a-big-transistor.md
+        - name: Fun With Floating Point Arithmetic, Part Six
+          href: 2005/1/26/fun-with-floating-point-arithmetic-part-six.md
+        - name: >-
+                You Want Salt With That? Part One: Security vs Obscurity
+          href: 2005/1/28/you-want-salt-with-that-part-one-security-vs-obscurity.md
+        - name: >-
+                You Want Salt With That? Part Two: We Need A Hash
+          href: 2005/1/31/you-want-salt-with-that-part-two-we-need-a-hash.md
+    - name: February
+      items:
+        - name: >-
+                You Want Salt With That? Part Three: Salt The Hash
+          href: 2005/2/3/you-want-salt-with-that-part-three-salt-the-hash.md
+        - name: >-
+                You Want Salt With That? Part Four: Challenge-Response
+          href: 2005/2/7/you-want-salt-with-that-part-four-challenge-response.md
+        - name: Win Fabulous Prizes!
+          href: 2005/2/10/win-fabulous-prizes.md
+        - name: Why does WScript.ConnectObject not always work?
+          href: 2005/2/15/why-does-wscript-connectobject-not-always-work.md
+        - name: VBScript Quiz Answers, Part One
+          href: 2005/2/18/vbscript-quiz-answers-part-one.md
+        - name: VBScript Quiz Answers, Part Two
+          href: 2005/2/25/vbscript-quiz-answers-part-two.md
+    - name: March
+      items:
+        - name: VBScript Quiz Answers, Part Three, and RegEx Memory Leak
+          href: 2005/3/1/vbscript-quiz-answers-part-three-and-regex-memory-leak.md
+        - name: VBScript Quiz Answers, Part Four, Plus, More Trivia!
+          href: 2005/3/3/vbscript-quiz-answers-part-four-plus-more-trivia.md
+        - name: VBScript Quiz Answers, Part Five
+          href: 2005/3/9/vbscript-quiz-answers-part-five.md
+        - name: VBScript Quiz Answers, Part Six
+          href: 2005/3/16/vbscript-quiz-answers-part-six.md
+        - name: VBScript Quiz Answers, Part Seven
+          href: 2005/3/21/vbscript-quiz-answers-part-seven.md
+        - name: VBScript Quiz Answers, Part Eight
+          href: 2005/3/23/vbscript-quiz-answers-part-eight.md
+        - name: VBScript Quiz Answers, Parts Nine and Ten
+          href: 2005/3/30/vbscript-quiz-answers-parts-nine-and-ten.md
+    - name: April
+      items:
+        - name: A Face Made For Email, Part Two
+          href: 2005/4/1/a-face-made-for-email-part-two.md
+        - name: VBScript Quiz Answers, Parts Eleven and Twelve
+          href: 2005/4/5/vbscript-quiz-answers-parts-eleven-and-twelve.md
+        - name: >-
+                Desafinado, Part One: Eric Continues His Obsession With The Greeks
+          href: 2005/4/8/desafinado-part-one-eric-continues-his-obsession-with-the-greeks.md
+        - name: >-
+                Desafinado, Part Two: A Perfect Pythagorean Tuning
+          href: 2005/4/11/desafinado-part-two-a-perfect-pythagorean-tuning.md
+        - name: >-
+                Desafinado, Part Three: Too Many Fifths
+          href: 2005/4/13/desafinado-part-three-too-many-fifths.md
+        - name: >-
+                Desafinado, Part Four: Rolling Your Own WAV Files
+          href: 2005/4/15/desafinado-part-four-rolling-your-own-wav-files.md
+        - name: >-
+                Desafinado, Part Five: Getting Down Without Hitting The Bottom
+          href: 2005/4/18/desafinado-part-five-getting-down-without-hitting-the-bottom.md
+        - name: Binary Files and the File System Object Do Not Mix
+          href: 2005/4/20/binary-files-and-the-file-system-object-do-not-mix.md
+        - name: How Do Script Engines Implement Object Identity?
+          href: 2005/4/26/how-do-script-engines-implement-object-identity.md
+        - name: Bad Recursion Revisited
+          href: 2005/4/28/bad-recursion-revisited.md
+    - name: May
+      items:
+        - name: Instance-bound nested classes in JScript .NET
+          href: 2005/5/2/instance-bound-nested-classes-in-jscript-net.md
+        - name: What is the relationship between global object enumerators, execution contexts, activation objects, variable objects and this?
+          href: 2005/5/4/what-is-the-relationship-between-global-object-enumerators-execution-contexts-activation-objects-variable-objects-and-this.md
+        - name: How To Obtain The Name Of The Client From The ASP Server
+          href: 2005/5/9/how-to-obtain-the-name-of-the-client-from-the-asp-server.md
+        - name: High-Dimensional Spaces Are Counterintuitive, Part One
+          href: 2005/5/11/high-dimensional-spaces-are-counterintuitive-part-one.md
+        - name: High-Dimensional Spaces Are Counterintuitive, Part Two
+          href: 2005/5/13/high-dimensional-spaces-are-counterintuitive-part-two.md
+        - name: If so smart Yoda is, why does not words the right order in his sentences put?
+          href: 2005/5/19/if-so-smart-yoda-is-why-does-not-words-the-right-order-in-his-sentences-put.md
+        - name: Books, Books, Books
+          href: 2005/5/26/books-books-books.md
+    - name: June
+      items:
+        - name: High-Dimensional Spaces Are Counterintuitive, Part Three
+          href: 2005/6/6/high-dimensional-spaces-are-counterintuitive-part-three.md
+        - name: I'm So Prolix
+          href: 2005/6/6/im-so-prolix.md
+        - name: High-Dimensional Spaces Are Counterintuitive, Part Four
+          href: 2005/6/9/high-dimensional-spaces-are-counterintuitive-part-four.md
+        - name: Chronological Index
+          href: 2005/6/10/chronological-index.md
+        - name: High-Dimensional Spaces Are Counterintuitive, Part Five
+          href: 2005/6/20/high-dimensional-spaces-are-counterintuitive-part-five.md
+        - name: Scripting Type Library Constant Injection Performance Characteristics, Part One
+          href: 2005/6/22/scripting-type-library-constant-injection-performance-characteristics-part-one.md
+        - name: Scripting Type Library Constant Injection Performance Characteristics, Part Two
+          href: 2005/6/29/scripting-type-library-constant-injection-performance-characteristics-part-two.md
+    - name: July
+      items:
+        - name: A Puzzler
+          href: 2005/7/1/a-puzzler.md
+        - name: The Answer To Last Week's Puzzler
+          href: 2005/7/4/the-answer-to-last-weeks-puzzler.md
+        - name: Scripting Type Library Constant Injection Performance Characteristics, Part Three
+          href: 2005/7/7/scripting-type-library-constant-injection-performance-characteristics-part-three.md
+        - name: Eric's Advice For First-Time Technical Presenters
+          href: 2005/7/11/erics-advice-for-first-time-technical-presenters.md
+        - name: More on full qualification, this time in C#
+          href: 2005/7/15/more-on-full-qualification-this-time-in-c.md
+        - name: Recursion, Part Zero
+          href: 2005/7/25/recursion-part-zero.md
+        - name: >-
+                Recursion, Part One: Recursive Data Structures and Functions
+          href: 2005/7/27/recursion-part-one-recursive-data-structures-and-functions.md
+    - name: August
+      items:
+        - name: >-
+                Recursion, Part Two: Unrolling a Recursive Function With an Explicit Stack
+          href: 2005/8/1/recursion-part-two-unrolling-a-recursive-function-with-an-explicit-stack.md
+        - name: >-
+                Recursion, Part Three: Building a Dispatch Engine
+          href: 2005/8/4/recursion-part-three-building-a-dispatch-engine.md
+        - name: >-
+                Recursion, Part Four: Continuation Passing Style
+          href: 2005/8/8/recursion-part-four-continuation-passing-style.md
+        - name: >-
+                Recursion, Part Five: More on CPS
+          href: 2005/8/11/recursion-part-five-more-on-cps.md
+        - name: >-
+                Recursion, Part Six: Making CPS Work
+          href: 2005/8/15/recursion-part-six-making-cps-work.md
+        - name: Fabulous Adventures in C# and VSTO
+          href: 2005/8/19/fabulous-adventures-in-c-and-vsto.md
+        - name: Through the Looking Glass
+          href: 2005/8/22/through-the-looking-glass.md
+        - name: Caching Dispatch Identifiers Is A Bad Idea
+          href: 2005/8/24/caching-dispatch-identifiers-is-a-bad-idea.md
+        - name: VBScript Default Property Semantics
+          href: 2005/8/30/vbscript-default-property-semantics.md
+    - name: September
+      items:
+        - name: 250% of what, exactly?
+          href: 2005/9/1/250-of-what-exactly.md
+        - name: Book Signing at the PDC
+          href: 2005/9/7/book-signing-at-the-pdc.md
+        - name: Implementing Event Handling, Part One
+          href: 2005/9/9/implementing-event-handling-part-one.md
+        - name: Delightful, delicious, DLINQ
+          href: 2005/9/14/delightful-delicious-dlinq.md
+        - name: Implementing Event Handling, Part Two
+          href: 2005/9/21/implementing-event-handling-part-two.md
+        - name: C# 3.0 Chat is Today, MVP Summit is next week
+          href: 2005/9/22/c-3-0-chat-is-today-mvp-summit-is-next-week.md
+        - name: C# 3.0 is still statically typed, honest!
+          href: 2005/9/27/c-3-0-is-still-statically-typed-honest.md
+        - name: Guru meditations on scope chains of closures
+          href: 2005/9/30/guru-meditations-on-scope-chains-of-closures.md
+    - name: October
+      items:
+        - name: Local variables considered not very harmful
+          href: 2005/10/4/local-variables-considered-not-very-harmful.md
+        - name: Checking For Script Syntax Errors
+          href: 2005/10/11/checking-for-script-syntax-errors.md
+        - name: Checking For Script Syntax Errors, This Time With Code
+          href: 2005/10/12/checking-for-script-syntax-errors-this-time-with-code.md
+        - name: Resolving ambiguity in C# param passing
+          href: 2005/10/17/resolving-ambiguity-in-c-param-passing.md
+        - name: Another C#/LINQ chat, Thursday 1300h Pacific Time
+          href: 2005/10/17/another-clinq-chat-thursday-1300h-pacific-time.md
+        - name: FYI, C# 2.0 Has A Breaking Change in Enum Subtraction
+          href: 2005/10/19/fyi-c-2-0-has-a-breaking-change-in-enum-subtraction.md
+        - name: Do not use string hashes for security purposes
+          href: 2005/10/24/do-not-use-string-hashes-for-security-purposes.md
+        - name: >-
+                Five-Dollar Words for Programmers, Part One: Idempotence
+          href: 2005/10/26/five-dollar-words-for-programmers-part-one-idempotence.md
+        - name: >-
+                Five-Dollar Words for Programmers, Part Two: Orthogonal
+          href: 2005/10/28/five-dollar-words-for-programmers-part-two-orthogonal.md
+    - name: November
+      items:
+        - name: How to make little girls scream like… well, like little girls
+          href: 2005/11/3/how-to-make-little-girls-scream-like-well-like-little-girls.md
+        - name: Why Can't I Access A Protected Member From A Derived Class?
+          href: 2005/11/9/why-cant-i-access-a-protected-member-from-a-derived-class.md
+        - name: Why are base class calls from anonymous delegates nonverifiable?
+          href: 2005/11/14/why-are-base-class-calls-from-anonymous-delegates-nonverifiable.md
+        - name: >-
+                Regular Expressions From Scratch, Part One: Defining Terms
+          href: 2005/11/18/regular-expressions-from-scratch-part-one-defining-terms.md
+        - name: >-
+                Regular Expressions From Scratch, Part Two: Some Examples of Languages
+          href: 2005/11/22/regular-expressions-from-scratch-part-two-some-examples-of-languages.md
+        - name: >-
+                Regular Expressions From Scratch, Part Three: Concatenation
+          href: 2005/11/25/regular-expressions-from-scratch-part-three-concatenation.md
+        - name: >-
+                Regular Expressions From Scratch, Part Four: The Kleene Closure of a Language
+          href: 2005/11/28/regular-expressions-from-scratch-part-four-the-kleene-closure-of-a-language.md
+    - name: December
+      items:
+        - name: >-
+                Regular Expressions From Scratch, Part Five: The Regular Expression Language
+          href: 2005/12/1/regular-expressions-from-scratch-part-five-the-regular-expression-language.md
+        - name: >-
+                Regular Expressions From Scratch, Part Six: The Insanely Clever Bit
+          href: 2005/12/5/regular-expressions-from-scratch-part-six-the-insanely-clever-bit.md
+        - name: >-
+                Regular Expressions From Scratch, Part Seven: Listing All Members Of A Language In Order
+          href: 2005/12/8/regular-expressions-from-scratch-part-seven-listing-all-members-of-a-language-in-order.md
+        - name: >-
+                Regular Expressions From Scratch, Part Eight: The Diagonal Argument
+          href: 2005/12/12/regular-expressions-from-scratch-part-eight-the-diagonal-argument.md
+        - name: >-
+                Regular Expressions From Scratch, Part Nine: A Dream of a Machine
+          href: 2005/12/15/regular-expressions-from-scratch-part-nine-a-dream-of-a-machine.md
+        - name: >-
+                Regular Expressions From Scratch, Part Ten: Magic!
+          href: 2005/12/19/regular-expressions-from-scratch-part-ten-magic.md
+        - name: >-
+                Regular Expressions From Scratch, Part Eleven: Eliminating Multi-Symbol Rules
+          href: 2005/12/22/regular-expressions-from-scratch-part-eleven-eliminating-multi-symbol-rules.md
+  - name: All of 2006
+    items:
+    - name: January
+      items:
+        - name: >-
+                Regular Expressions From Scratch, Part Twelve: Superposition of States
+          href: 2006/1/20/regular-expressions-from-scratch-part-twelve-superposition-of-states.md
+    - name: March
+      items:
+        - name: Back in the saddle
+          href: 2006/3/28/back-in-the-saddle.md
+        - name: The Root Of All Evil, Part One
+          href: 2006/3/28/the-root-of-all-evil-part-one.md
+        - name: The Root of All Evil, Part Two
+          href: 2006/3/29/the-root-of-all-evil-part-two.md
+        - name: Delegates, Lambdas, Type Inference and Long Playing Records
+          href: 2006/3/31/delegates-lambdas-type-inference-and-long-playing-records.md
+    - name: April
+      items:
+        - name: Odious ambiguous overloads, part one
+          href: 2006/4/5/odious-ambiguous-overloads-part-one.md
+        - name: Odious ambiguous overloads, part two
+          href: 2006/4/6/odious-ambiguous-overloads-part-two.md
+        - name: Writing Code Isn't Rocket Science (It's Worse Than That)
+          href: 2006/4/10/writing-code-isnt-rocket-science-its-worse-than-that.md
+    - name: May
+      items:
+        - name: >-
+                Visual Studio Tools For Office: Using Visual Basic 2005 with Excel, Work, Outlook and InfoPath
+          href: 2006/5/1/visual-studio-tools-for-office-using-visual-basic-2005-with-excel-work-outlook-and-infopath.md
+        - name: Using undefined variables in JScript
+          href: 2006/5/4/using-undefined-variables-in-jscript.md
+        - name: Type inference woes, part one
+          href: 2006/5/24/type-inference-woes-part-one.md
+        - name: Type inference woes, part two
+          href: 2006/5/26/type-inference-woes-part-two.md
+        - name: Type inference woes, part three
+          href: 2006/5/30/type-inference-woes-part-three.md
+    - name: June
+      items:
+        - name: Standard Generic Delegate Types
+          href: 2006/6/21/standard-generic-delegate-types.md
+        - name: Standard Generic Delegate Types, Part Two
+          href: 2006/6/23/standard-generic-delegate-types-part-two.md
+        - name: What Are The Semantics Of Multiple Implicitly Typed Declarations? Part One
+          href: 2006/6/26/what-are-the-semantics-of-multiple-implicitly-typed-declarations-part-one.md
+        - name: What Are The Semantics Of Multiple Implicitly Typed Declarations? Part Two
+          href: 2006/6/27/what-are-the-semantics-of-multiple-implicitly-typed-declarations-part-two.md
+    - name: July
+      items:
+        - name: >-
+                Error messages: diagnostic is preferable to prescriptive
+          href: 2006/7/7/error-messages-diagnostic-is-preferable-to-prescriptive.md
+        - name: Type inference woes, part four
+          href: 2006/7/18/type-inference-woes-part-four.md
+    - name: August
+      items:
+        - name: Why does a recursive lambda cause a definite assignment error?
+          href: 2006/8/18/why-does-a-recursive-lambda-cause-a-definite-assignment-error.md
+    - name: September
+      items:
+        - name: Do Not Call IsBadFooPtr, Indeed
+          href: 2006/9/27/do-not-call-isbadfooptr-indeed.md
+    - name: October
+      items:
+        - name: >-
+                "Boolean or" or "boolean or"?
+          href: 2006/10/31/boolean-or-or-boolean-or.md
+    - name: November
+      items:
+        - name: How do I mitigate a SQL injection vuln?
+          href: 2006/11/1/how-do-i-mitigate-a-sql-injection-vuln.md
+        - name: A Face Made For Email, Part Three
+          href: 2006/11/17/a-face-made-for-email-part-three.md
+        - name: Every Number Is Special In Its Own Special Way
+          href: 2006/11/28/every-number-is-special-in-its-own-special-way.md
+  - name: All of 2007
+    items:
+    - name: January
+      items:
+        - name: The horror! The horror!
+          href: 2007/1/8/the-horror-the-horror.md
+        - name: Lambda Expressions vs. Anonymous Methods, Part One
+          href: 2007/1/10/lambda-expressions-vs-anonymous-methods-part-one.md
+        - name: Lambda Expressions vs. Anonymous Methods, Part Two
+          href: 2007/1/11/lambda-expressions-vs-anonymous-methods-part-two.md
+        - name: Lambda Expressions vs. Anonymous Methods, Part Three
+          href: 2007/1/12/lambda-expressions-vs-anonymous-methods-part-three.md
+        - name: Free Food! And Meet The Compiler Guy! And Win an XBOX 360!
+          href: 2007/1/30/free-food-and-meet-the-compiler-guy-and-win-an-xbox-360.md
+    - name: March
+      items:
+        - name: Lambda Expressions vs. Anonymous Methods, Part Four
+          href: 2007/3/26/lambda-expressions-vs-anonymous-methods-part-four.md
+        - name: Lambda Expressions vs. Anonymous Methods, Part Five
+          href: 2007/3/28/lambda-expressions-vs-anonymous-methods-part-five.md
+    - name: April
+      items:
+        - name: Practice thinking like a compiler tester
+          href: 2007/4/10/practice-thinking-like-a-compiler-tester.md
+        - name: Practice thinking like a compiler tester, part two
+          href: 2007/4/11/practice-thinking-like-a-compiler-tester-part-two.md
+        - name: Practice thinking like a compiler tester, part three
+          href: 2007/4/12/practice-thinking-like-a-compiler-tester-part-three.md
+        - name: >-
+                News flash: Instances of anonymous types will be immutable
+          href: 2007/4/13/news-flash-instances-of-anonymous-types-will-be-immutable.md
+        - name: Chained user-defined explicit conversions in C#
+          href: 2007/4/16/chained-user-defined-explicit-conversions-in-c.md
+        - name: Chained user-defined explicit conversions in C#, Part Two
+          href: 2007/4/18/chained-user-defined-explicit-conversions-in-c-part-two.md
+        - name: Chained user-defined explicit conversions in C#, Part Three
+          href: 2007/4/20/chained-user-defined-explicit-conversions-in-c-part-three.md
+        - name: Write-only variables considered harmful? Or beneficial?
+          href: 2007/4/23/write-only-variables-considered-harmful-or-beneficial.md
+        - name: Even More Conversion Trivia
+          href: 2007/4/30/even-more-conversion-trivia.md
+    - name: May
+      items:
+        - name: Even More Conversion Trivia, Part Two
+          href: 2007/5/1/even-more-conversion-trivia-part-two.md
+        - name: Human sacrifice, dogs and cats living together, mass hysteria! and thread model errors!
+          href: 2007/5/7/human-sacrifice-dogs-and-cats-living-together-mass-hysteria-and-thread-model-errors.md
+        - name: Why are overloaded operators always static in C#?
+          href: 2007/5/14/why-are-overloaded-operators-always-static-in-c.md
+        - name: Should we produce warnings for unused/uninitialized internal fields?
+          href: 2007/5/15/should-we-produce-warnings-for-unuseduninitialized-internal-fields.md
+    - name: June
+      items:
+        - name: >-
+                FYI: C# and VB Closures are per-scope
+          href: 2007/6/6/fyi-c-and-vb-closures-are-per-scope.md
+        - name: Bad Names
+          href: 2007/6/12/bad-names.md
+        - name: Calling static methods on type parameters is illegal, part one
+          href: 2007/6/14/calling-static-methods-on-type-parameters-is-illegal-part-one.md
+        - name: Calling static methods on type parameters is illegal, part two
+          href: 2007/6/18/calling-static-methods-on-type-parameters-is-illegal-part-two.md
+        - name: Calling static methods on type parameters is illegal, part three
+          href: 2007/6/21/calling-static-methods-on-type-parameters-is-illegal-part-three.md
+        - name: Inside or Outside?
+          href: 2007/6/25/inside-or-outside.md
+        - name: What exactly does 'lifted' mean?
+          href: 2007/6/27/what-exactly-does-lifted-mean.md
+    - name: July
+      items:
+        - name: An Inheritance Puzzle, Part One
+          href: 2007/7/27/an-inheritance-puzzle-part-one.md
+        - name: An Inheritance Puzzle, Part Two
+          href: 2007/7/30/an-inheritance-puzzle-part-two.md
+    - name: August
+      items:
+        - name: Talking About The Weather, Part One
+          href: 2007/8/2/talking-about-the-weather-part-one.md
+        - name: Talking About The Weather, Part Two
+          href: 2007/8/3/talking-about-the-weather-part-two.md
+        - name: C++ and the Pit Of Despair
+          href: 2007/8/14/c-and-the-pit-of-despair.md
+        - name: Subtleties of C# IL codegen
+          href: 2007/8/17/subtleties-of-c-il-codegen.md
+        - name: Future Breaking Changes, Part One
+          href: 2007/8/30/future-breaking-changes-part-one.md
+        - name: Future Breaking Changes, Part Two
+          href: 2007/8/31/future-breaking-changes-part-two.md
+    - name: September
+      items:
+        - name: Future Breaking Changes, Part Three
+          href: 2007/9/4/future-breaking-changes-part-three.md
+        - name: Psychic Debugging, Part One
+          href: 2007/9/5/psychic-debugging-part-one.md
+        - name: Psychic Debugging, Part Two
+          href: 2007/9/6/psychic-debugging-part-two.md
+    - name: October
+      items:
+        - name: Path Finding Using A* in C# 3.0, Part One
+          href: 2007/10/2/path-finding-using-a-in-c-3-0-part-one.md
+        - name: Path Finding Using A* in C# 3.0, Part Two
+          href: 2007/10/4/path-finding-using-a-in-c-3-0-part-two.md
+        - name: Path Finding Using A* in C# 3.0, Part Three
+          href: 2007/10/8/path-finding-using-a-in-c-3-0-part-three.md
+        - name: Path Finding Using A* in C# 3.0, Part Four
+          href: 2007/10/10/path-finding-using-a-in-c-3-0-part-four.md
+        - name: Packet Gnomes
+          href: 2007/10/11/packet-gnomes.md
+        - name: Covariance and Contravariance in C#, Part One
+          href: 2007/10/16/covariance-and-contravariance-in-c-part-one.md
+        - name: >-
+                Covariance and Contravariance in C#, Part Two: Array Covariance
+          href: 2007/10/17/covariance-and-contravariance-in-c-part-two-array-covariance.md
+        - name: >-
+                Covariance and Contravariance in C#, Part Three: Method Group Conversion Variance
+          href: 2007/10/19/covariance-and-contravariance-in-c-part-three-method-group-conversion-variance.md
+        - name: >-
+                Covariance and Contravariance in C#, Part Four: Real Delegate Variance
+          href: 2007/10/22/covariance-and-contravariance-in-c-part-four-real-delegate-variance.md
+        - name: >-
+                Covariance and Contravariance In C#, Part Five: Higher Order Functions Hurt My Brain
+          href: 2007/10/24/covariance-and-contravariance-in-c-part-five-higher-order-functions-hurt-my-brain.md
+        - name: >-
+                Covariance and Contravariance in C#, Part Six: Interface Variance
+          href: 2007/10/26/covariance-and-contravariance-in-c-part-six-interface-variance.md
+        - name: >-
+                Covariance and Contravariance in C# Part Seven: Why Do We Need A Syntax At All?
+          href: 2007/10/29/covariance-and-contravariance-in-c-part-seven-why-do-we-need-a-syntax-at-all.md
+        - name: >-
+                Covariance and Contravariance in C#, Part Eight: Syntax Options
+          href: 2007/10/31/covariance-and-contravariance-in-c-part-eight-syntax-options.md
+    - name: November
+      items:
+        - name: >-
+                Covariance and Contravariance in C#, Part Nine: Breaking Changes
+          href: 2007/11/2/covariance-and-contravariance-in-c-part-nine-breaking-changes.md
+        - name: C# 3.0 Return Type Inference Does Not Work On Method Groups
+          href: 2007/11/5/c-3-0-return-type-inference-does-not-work-on-method-groups.md
+        - name: A Couple Links
+          href: 2007/11/7/a-couple-links.md
+        - name: >-
+                Covariance and Contravariance in C#, Part Ten: Dealing With Ambiguity
+          href: 2007/11/9/covariance-and-contravariance-in-c-part-ten-dealing-with-ambiguity.md
+        - name: >-
+                Immutability in C# Part One: Kinds of Immutability
+          href: 2007/11/13/immutability-in-c-part-one-kinds-of-immutability.md
+    - name: December
+      items:
+        - name: >-
+                Immutability in C# Part Two: A Simple Immutable Stack
+          href: 2007/12/4/immutability-in-c-part-two-a-simple-immutable-stack.md
+        - name: >-
+                Immutability in C# Part Three: A Covariant Immutable Stack
+          href: 2007/12/6/immutability-in-c-part-three-a-covariant-immutable-stack.md
+        - name: >-
+                Immutability in C# Part Four: An Immutable Queue
+          href: 2007/12/10/immutability-in-c-part-four-an-immutable-queue.md
+        - name: >-
+                Immutability in C# Part Five: LOLZ!
+          href: 2007/12/13/immutability-in-c-part-five-lolz.md
+        - name: He's Just Sayin'...
+          href: 2007/12/14/hes-just-sayin.md
+        - name: >-
+                Immutability in C# Part Six: A Simple Binary Tree
+          href: 2007/12/18/immutability-in-c-part-six-a-simple-binary-tree.md
+        - name: >-
+                Immutability in C# Part Seven: More on Binary Trees
+          href: 2007/12/19/immutability-in-c-part-seven-more-on-binary-trees.md
+  - name: All of 2008
+    items:
+    - name: January
+      items:
+        - name: Recent Book News, Part One
+          href: 2008/1/9/recent-book-news-part-one.md
+        - name: Recent Book News, Part Two
+          href: 2008/1/16/recent-book-news-part-two.md
+        - name: >-
+                Immutability in C# Part Eight: Even More On Binary Trees
+          href: 2008/1/18/immutability-in-c-part-eight-even-more-on-binary-trees.md
+        - name: >-
+                Immutability in C# Part Nine: Academic? Plus my AVL tree implementation
+          href: 2008/1/21/immutability-in-c-part-nine-academic-plus-my-avl-tree-implementation.md
+        - name: >-
+                Immutability in C# Part 10: A double-ended queue
+          href: 2008/1/22/immutability-in-c-part-10-a-double-ended-queue.md
+    - name: February
+      items:
+        - name: deque.cs
+          href: 2008/2/12/deque-cs.md
+        - name: >-
+                Immutability in C# Part Eleven: A working double-ended queue
+          href: 2008/2/12/immutability-in-c-part-eleven-a-working-double-ended-queue.md
+        - name: Why Do Initializers Run In The Opposite Order As Constructors? Part One
+          href: 2008/2/15/why-do-initializers-run-in-the-opposite-order-as-constructors-part-one.md
+        - name: Why Do Initializers Run In The Opposite Order As Constructors? Part Two
+          href: 2008/2/18/why-do-initializers-run-in-the-opposite-order-as-constructors-part-two.md
+        - name: How to not get a question answered
+          href: 2008/2/20/how-to-not-get-a-question-answered.md
+    - name: March
+      items:
+        - name: Translating intentions and mechanisms
+          href: 2008/3/25/translating-intentions-and-mechanisms.md
+        - name: >-
+                Why Can't I Access A Protected Member From A Derived Class, Part Two: Why Can I?
+          href: 2008/3/28/why-cant-i-access-a-protected-member-from-a-derived-class-part-two-why-can-i.md
+    - name: April
+      items:
+        - name: Why Can't I Access A Protected Member From A Derived Class, Part Three
+          href: 2008/4/24/why-cant-i-access-a-protected-member-from-a-derived-class-part-three.md
+        - name: C# In Depth
+          href: 2008/4/28/c-in-depth.md
+        - name: Yet More Book News
+          href: 2008/4/28/yet-more-book-news.md
+    - name: May
+      items:
+        - name: Protected Member Access, Part Four
+          href: 2008/5/2/protected-member-access-part-four.md
+        - name: >-
+                Protected Semantics, Part Five: More on immutability
+          href: 2008/5/5/protected-semantics-part-five-more-on-immutability.md
+        - name: >-
+                Covariance and Contravariance, Part Eleven: To infinity, but not beyond
+          href: 2008/5/7/covariance-and-contravariance-part-eleven-to-infinity-but-not-beyond.md
+        - name: Computers are dumb
+          href: 2008/5/9/computers-are-dumb.md
+        - name: Trivial Projections Are (Usually) Optimized Away
+          href: 2008/5/12/trivial-projections-are-usually-optimized-away.md
+        - name: Mutating Readonly Structs
+          href: 2008/5/14/mutating-readonly-structs.md
+        - name: Reading Code Over the Telephone
+          href: 2008/5/16/reading-code-over-the-telephone.md
+        - name: A Generic Constraint Question
+          href: 2008/5/19/a-generic-constraint-question.md
+        - name: Method Hiding Apologia
+          href: 2008/5/21/method-hiding-apologia.md
+        - name: Precedence vs Associativity vs Order
+          href: 2008/5/23/precedence-vs-associativity-vs-order.md
+        - name: Method Type Inference Changes, Part Zero
+          href: 2008/5/28/method-type-inference-changes-part-zero.md
+    - name: June
+      items:
+        - name: An apology
+          href: 2008/6/10/an-apology.md
+        - name: Method Type Inference Changes, Part One
+          href: 2008/6/17/method-type-inference-changes-part-one.md
+        - name: Customer Service Is Not Rocket Science, Part Two
+          href: 2008/6/23/customer-service-is-not-rocket-science-part-two.md
+    - name: July
+      items:
+        - name: A Face Made For Email, Part Four
+          href: 2008/7/14/a-face-made-for-email-part-four.md
+        - name: What To Do When The Source Control Server Is Down
+          href: 2008/7/30/what-to-do-when-the-source-control-server-is-down.md
+    - name: August
+      items:
+        - name: Tasty Beverages
+          href: 2008/8/19/tasty-beverages.md
+    - name: September
+      items:
+        - name: High maintenance
+          href: 2008/9/8/high-maintenance.md
+        - name: Vexing exceptions
+          href: 2008/9/10/vexing-exceptions.md
+        - name: Arrays considered somewhat harmful
+          href: 2008/9/22/arrays-considered-somewhat-harmful.md
+        - name: Preventing third-party derivation, part one
+          href: 2008/9/26/preventing-third-party-derivation-part-one.md
+    - name: October
+      items:
+        - name: Preventing third-party derivation, part two
+          href: 2008/10/6/preventing-third-party-derivation-part-two.md
+        - name: Boring Metablogging, Part Two
+          href: 2008/10/7/boring-metablogging-part-two.md
+        - name: The Future of C#, Part One
+          href: 2008/10/8/the-future-of-c-part-one.md
+        - name: The Future of C#, Part Two
+          href: 2008/10/28/the-future-of-c-part-two.md
+        - name: >-
+                The Future of C#, Part Three: On video, plus the dead-trees edition
+          href: 2008/10/29/the-future-of-c-part-three-on-video-plus-the-dead-trees-edition.md
+    - name: November
+      items:
+        - name: >-
+                The Future of C#, Part Four: Yet More Video
+          href: 2008/11/2/the-future-of-c-part-four-yet-more-video.md
+        - name: The Future Of C#, Part Five
+          href: 2008/11/7/the-future-of-c-part-five.md
+  - name: All of 2009
+    items:
+    - name: January
+      items:
+        - name: Book News
+          href: 2009/1/12/book-news.md
+        - name: Automatic vs Explicit Properties
+          href: 2009/1/14/automatic-vs-explicit-properties.md
+        - name: Future-Proofing A Design
+          href: 2009/1/16/future-proofing-a-design.md
+        - name: Things That Make You Go Hmmm
+          href: 2009/1/21/things-that-make-you-go-hmmm.md
+        - name: Reading Declarations
+          href: 2009/1/22/reading-declarations.md
+        - name: Why no var on fields?
+          href: 2009/1/26/why-no-var-on-fields.md
+        - name: Long division
+          href: 2009/1/28/long-division.md
+    - name: February
+      items:
+        - name: Properties vs. Attributes
+          href: 2009/2/2/properties-vs-attributes.md
+        - name: A nasality talisman for the sultana analyst
+          href: 2009/2/4/a-nasality-talisman-for-the-sultana-analyst.md
+        - name: Santalic tailfans, part two
+          href: 2009/2/6/santalic-tailfans-part-two.md
+        - name: References are not addresses
+          href: 2009/2/17/references-are-not-addresses.md
+    - name: March
+      items:
+        - name: What are the horns for?
+          href: 2009/3/5/what-are-the-horns-for.md
+        - name: Locks and exceptions do not mix
+          href: 2009/3/6/locks-and-exceptions-do-not-mix.md
+        - name: VSTO Book News
+          href: 2009/3/9/vsto-book-news.md
+        - name: Loops are gotos
+          href: 2009/3/10/loops-are-gotos.md
+        - name: Representation and Identity
+          href: 2009/3/19/representation-and-identity.md
+        - name: It’s not magic!
+          href: 2009/3/20/its-not-magic.md
+        - name: >-
+                Five-Dollar Words For Programmers, Part Three: Homoiconic
+          href: 2009/3/23/five-dollar-words-for-programmers-part-three-homoiconic.md
+        - name: >-
+                Five-Dollar Words For Programmers, Part Four: Boustrophedonic
+          href: 2009/3/26/five-dollar-words-for-programmers-part-four-boustrophedonic.md
+        - name: Reposting Information
+          href: 2009/3/27/reposting-information.md
+        - name: Every Problem Looks Like A Nail
+          href: 2009/3/30/every-problem-looks-like-a-nail.md
+    - name: April
+      items:
+        - name: A Book By Any Other Name Would Smell As Sweet
+          href: 2009/4/2/a-book-by-any-other-name-would-smell-as-sweet.md
+        - name: Good Names
+          href: 2009/4/6/good-names.md
+        - name: Many Happy Returns
+          href: 2009/4/7/many-happy-returns.md
+        - name: Double Your Dispatch, Double Your Fun
+          href: 2009/4/9/double-your-dispatch-double-your-fun.md
+        - name: Restating the problem
+          href: 2009/4/13/restating-the-problem.md
+        - name: Comma Quibbling
+          href: 2009/4/15/comma-quibbling.md
+        - name: >-
+                Five-Dollar Words For Programmers, Part Five: Reification
+          href: 2009/4/17/five-dollar-words-for-programmers-part-five-reification.md
+        - name: The Stack Is An Implementation Detail, Part One
+          href: 2009/4/27/the-stack-is-an-implementation-detail-part-one.md
+        - name: Events and Races
+          href: 2009/4/29/events-and-races.md
+    - name: May
+      items:
+        - name: The Stack Is An Implementation Detail, Part Two
+          href: 2009/5/4/the-stack-is-an-implementation-detail-part-two.md
+        - name: Zip Me Up
+          href: 2009/5/7/zip-me-up.md
+        - name: Reserved and Contextual Keywords
+          href: 2009/5/11/reserved-and-contextual-keywords.md
+        - name: Null Is Not Empty
+          href: 2009/5/14/null-is-not-empty.md
+        - name: “foreach” vs “ForEach”
+          href: 2009/5/18/foreach-vs-foreach.md
+        - name: >-
+                In Foof We Trust: A Dialogue
+          href: 2009/5/21/in-foof-we-trust-a-dialogue.md
+        - name: Why Is The Return Type Parameter Last?
+          href: 2009/5/25/why-is-the-return-type-parameter-last.md
+        - name: What Would Tufte Do?
+          href: 2009/5/27/what-would-tufte-do.md
+        - name: When Five Hundred Posts You Reach
+          href: 2009/5/28/when-five-hundred-posts-you-reach.md
+    - name: June
+      items:
+        - name: Bug Psychology
+          href: 2009/6/1/bug-psychology.md
+        - name: Alas, Smith and Jones
+          href: 2009/6/4/alas-smith-and-jones.md
+        - name: Fabulous Adventures In Russian
+          href: 2009/6/5/fabulous-adventures-in-russian.md
+        - name: “Out Of Memory” Does Not Refer to Physical Memory
+          href: 2009/6/8/out-of-memory-does-not-refer-to-physical-memory.md
+        - name: What does the optimize switch do?
+          href: 2009/6/11/what-does-the-optimize-switch-do.md
+        - name: Making it easier
+          href: 2009/6/15/making-it-easier.md
+        - name: Use your legs, not your back
+          href: 2009/6/18/use-your-legs-not-your-back.md
+        - name: Why Doesn't C# Implement "Top Level" Methods?
+          href: 2009/6/22/why-doesnt-c-implement-top-level-methods.md
+        - name: It Already Is A Scripting Language
+          href: 2009/6/24/it-already-is-a-scripting-language.md
+        - name: Mmm, Curry
+          href: 2009/6/25/mmm-curry.md
+        - name: Iterators at the Summer Games
+          href: 2009/6/26/iterators-at-the-summer-games.md
+        - name: The void is invariant
+          href: 2009/6/29/the-void-is-invariant.md
+    - name: July
+      items:
+        - name: The correct answer is "no"
+          href: 2009/7/2/the-correct-answer-is-no.md
+        - name: Color Color
+          href: 2009/7/6/color-color.md
+        - name: Iterator Blocks, Part One
+          href: 2009/7/9/iterator-blocks-part-one.md
+        - name: >-
+                Iterator Blocks, Part Two: Why no ref or out parameters?
+          href: 2009/7/13/iterator-blocks-part-two-why-no-ref-or-out-parameters.md
+        - name: >-
+                Iterator Blocks, Part Three: Why no yield in finally?
+          href: 2009/7/16/iterator-blocks-part-three-why-no-yield-in-finally.md
+        - name: >-
+                Iterator blocks Part Four: Why no yield in catch?
+          href: 2009/7/20/iterator-blocks-part-four-why-no-yield-in-catch.md
+        - name: >-
+                Iterator Blocks, Part Five: Push vs Pull
+          href: 2009/7/23/iterator-blocks-part-five-push-vs-pull.md
+        - name: >-
+                Iterator Blocks, Part Six: Why no unsafe code?
+          href: 2009/7/27/iterator-blocks-part-six-why-no-unsafe-code.md
+        - name: >-
+                What's the difference, part one: Generics are not templates
+          href: 2009/7/30/whats-the-difference-part-one-generics-are-not-templates.md
+    - name: August
+      items:
+        - name: >-
+                What's The Difference, Part Two: Scope vs Declaration Space vs Lifetime
+          href: 2009/8/3/whats-the-difference-part-two-scope-vs-declaration-space-vs-lifetime.md
+        - name: Not everything derives from object
+          href: 2009/8/6/not-everything-derives-from-object.md
+        - name: Precedence vs order, redux
+          href: 2009/8/10/precedence-vs-order-redux.md
+        - name: Four switch oddities
+          href: 2009/8/13/four-switch-oddities.md
+        - name: Arrays of arrays
+          href: 2009/8/17/arrays-of-arrays.md
+        - name: Queueing Theory In Action, plus, frogs
+          href: 2009/8/20/queueing-theory-in-action-plus-frogs.md
+        - name: >-
+                Iterator Blocks Part Seven: Why no anonymous iterators?
+          href: 2009/8/24/iterator-blocks-part-seven-why-no-anonymous-iterators.md
+        - name: >-
+                What's the Difference? Part Three: fixed vs. fixed
+          href: 2009/8/27/whats-the-difference-part-three-fixed-vs-fixed.md
+        - name: >-
+                What's the Difference, Part Four: into vs into
+          href: 2009/8/31/whats-the-difference-part-four-into-vs-into.md
+    - name: September
+      items:
+        - name: >-
+                What's the Difference, Part Five: certificate signing vs strong naming
+          href: 2009/9/3/whats-the-difference-part-five-certificate-signing-vs-strong-naming.md
+        - name: Sorry about the CAPTCHA
+          href: 2009/9/10/sorry-about-the-captcha.md
+        - name: What's the difference between conditional compilation and the conditional attribute?
+          href: 2009/9/10/whats-the-difference-between-conditional-compilation-and-the-conditional-attribute.md
+        - name: What's the difference between a partial method and a partial class?
+          href: 2009/9/14/whats-the-difference-between-a-partial-method-and-a-partial-class.md
+        - name: West of House
+          href: 2009/9/17/west-of-house.md
+        - name: Why do ref and out parameters not allow type variation?
+          href: 2009/9/21/why-do-ref-and-out-parameters-not-allow-type-variation.md
+        - name: Why is covariance of value-typed arrays inconsistent?
+          href: 2009/9/24/why-is-covariance-of-value-typed-arrays-inconsistent.md
+        - name: String interning and String.Empty
+          href: 2009/9/28/string-interning-and-string-empty.md
+    - name: October
+      items:
+        - name: Why does char convert implicitly to ushort but not vice versa?
+          href: 2009/10/1/why-does-char-convert-implicitly-to-ushort-but-not-vice-versa.md
+        - name: Why No Extension Properties?
+          href: 2009/10/5/why-no-extension-properties.md
+        - name: What's the difference between "as" and "cast" operators?
+          href: 2009/10/8/whats-the-difference-between-as-and-cast-operators.md
+        - name: Absence of evidence is not evidence of absence
+          href: 2009/10/12/absence-of-evidence-is-not-evidence-of-absence.md
+        - name: As Timeless As Infinity
+          href: 2009/10/15/as-timeless-as-infinity.md
+        - name: What is this thing you call "thread safe"?
+          href: 2009/10/19/what-is-this-thing-you-call-thread-safe.md
+        - name: Begging the question
+          href: 2009/10/22/begging-the-question.md
+        - name: Some new videos
+          href: 2009/10/26/some-new-videos.md
+        - name: I have a Fit, but a lack of Focus.
+          href: 2009/10/29/i-have-a-fit-but-a-lack-of-focus.md
+    - name: November
+      items:
+        - name: Simple names are not so simple
+          href: 2009/11/2/simple-names-are-not-so-simple.md
+        - name: Simple names are not so simple, Part Two, plus, volcanoes and fried foods
+          href: 2009/11/5/simple-names-are-not-so-simple-part-two-plus-volcanoes-and-fried-foods.md
+        - name: Three Umpires
+          href: 2009/11/9/three-umpires.md
+        - name: Closing over the loop variable considered harmful
+          href: 2009/11/12/closing-over-the-loop-variable-considered-harmful.md
+        - name: Closing over the loop variable, part two
+          href: 2009/11/16/closing-over-the-loop-variable-part-two.md
+        - name: Always write a spec, part one
+          href: 2009/11/19/always-write-a-spec-part-one.md
+        - name: Always write a spec, Part Two
+          href: 2009/11/23/always-write-a-spec-part-two.md
+        - name: The Purpose, Revealed
+          href: 2009/11/25/the-purpose-revealed.md
+        - name: What's the difference between covariance and assignment compatibility?
+          href: 2009/11/30/whats-the-difference-between-covariance-and-assignment-compatibility.md
+    - name: December
+      items:
+        - name: Exact rules for variance validity
+          href: 2009/12/3/exact-rules-for-variance-validity.md
+        - name: Query transformations are syntactic
+          href: 2009/12/7/query-transformations-are-syntactic.md
+        - name: Constraints are not part of the signature
+          href: 2009/12/10/constraints-are-not-part-of-the-signature.md
+        - name: Use the right tool for the job
+          href: 2009/12/14/use-the-right-tool-for-the-job.md
+        - name: It's the most wonderful time of the year
+          href: 2009/12/26/its-the-most-wonderful-time-of-the-year.md
+  - name: All of 2010
+    items:
+    - name: January
+      items:
+        - name: First Cousins Once Removed
+          href: 2010/1/4/first-cousins-once-removed.md
+        - name: Is there such a thing as too much precision?
+          href: 2010/1/7/is-there-such-a-thing-as-too-much-precision.md
+        - name: Continuing to an outer loop
+          href: 2010/1/11/continuing-to-an-outer-loop.md
+        - name: Why Can't I Access A Protected Member From A Derived Class? Part Six
+          href: 2010/1/14/why-cant-i-access-a-protected-member-from-a-derived-class-part-six.md
+        - name: A Definite Assignment Anomaly
+          href: 2010/1/18/a-definite-assignment-anomaly.md
+        - name: What’s the difference between a destructor and a finalizer?
+          href: 2010/1/21/whats-the-difference-between-a-destructor-and-a-finalizer.md
+        - name: Why are unused using directives not a warning?
+          href: 2010/1/25/why-are-unused-using-directives-not-a-warning.md
+        - name: Calling constructors in arbitrary places
+          href: 2010/1/28/calling-constructors-in-arbitrary-places.md
+    - name: February
+      items:
+        - name: Style follows semantics
+          href: 2010/2/1/style-follows-semantics.md
+        - name: How Many Passes?
+          href: 2010/2/4/how-many-passes.md
+        - name: Making the code read like the spec
+          href: 2010/2/8/making-the-code-read-like-the-spec.md
+        - name: Chaining simple assignments is not so simple
+          href: 2010/2/11/chaining-simple-assignments-is-not-so-simple.md
+        - name: A twist of lemon
+          href: 2010/2/15/a-twist-of-lemon.md
+        - name: What’s the difference between ternary and tertiary?
+          href: 2010/2/18/whats-the-difference-between-ternary-and-tertiary.md
+        - name: >-
+                Careful with that axe, part one: Should I specify a timeout?
+          href: 2010/2/22/careful-with-that-axe-part-one-should-i-specify-a-timeout.md
+        - name: >-
+                Careful with that axe, part two: What about exceptions?
+          href: 2010/2/25/careful-with-that-axe-part-two-what-about-exceptions.md
+    - name: March
+      items:
+        - name: Attracting Talent
+          href: 2010/3/1/attracting-talent.md
+        - name: Too much reuse
+          href: 2010/3/4/too-much-reuse.md
+        - name: Attracting Talent, summarized
+          href: 2010/3/8/attracting-talent-summarized.md
+        - name: Do not name a class the same as its namespace, Part One
+          href: 2010/3/9/do-not-name-a-class-the-same-as-its-namespace-part-one.md
+        - name: Do not name a class the same as its namespace, Part Two
+          href: 2010/3/11/do-not-name-a-class-the-same-as-its-namespace-part-two.md
+        - name: Do not name a class the same as its namespace, Part Three
+          href: 2010/3/15/do-not-name-a-class-the-same-as-its-namespace-part-three.md
+        - name: Do not name a class the same as its namespace, Part Four
+          href: 2010/3/18/do-not-name-a-class-the-same-as-its-namespace-part-four.md
+        - name: Socks, birthdays and hash collisions
+          href: 2010/3/22/socks-birthdays-and-hash-collisions.md
+        - name: Knights, Knaves, Protected and Internal
+          href: 2010/3/25/knights-knaves-protected-and-internal.md
+        - name: Putting a base in the middle
+          href: 2010/3/29/putting-a-base-in-the-middle.md
+    - name: April
+      items:
+        - name: Some Last-Minute New C# 4.0 Features
+          href: 2010/4/1/some-last-minute-new-c-4-0-features.md
+        - name: Turning a bug into a feature
+          href: 2010/4/5/turning-a-bug-into-a-feature.md
+        - name: Precision and accuracy of DateTime
+          href: 2010/4/8/precision-and-accuracy-of-datetime.md
+        - name: Ignoring parentheses
+          href: 2010/4/12/ignoring-parentheses.md
+        - name: It's Essential!
+          href: 2010/4/15/its-essential.md
+        - name: Every Binary Tree There Is
+          href: 2010/4/19/every-binary-tree-there-is.md
+        - name: Every Tree There Is
+          href: 2010/4/22/every-tree-there-is.md
+        - name: Every Program There Is, Part One
+          href: 2010/4/26/every-program-there-is-part-one.md
+        - name: Every Program There Is, Part Two
+          href: 2010/4/29/every-program-there-is-part-two.md
+    - name: May
+      items:
+        - name: Every Program There Is, Part Three
+          href: 2010/5/3/every-program-there-is-part-three.md
+        - name: Every Program There Is, Part Four
+          href: 2010/5/6/every-program-there-is-part-four.md
+        - name: Every Program There Is, Part Five
+          href: 2010/5/10/every-program-there-is-part-five.md
+        - name: Every Program There Is, Part Six
+          href: 2010/5/13/every-program-there-is-part-six.md
+        - name: Every Program There Is, Part Seven
+          href: 2010/5/17/every-program-there-is-part-seven.md
+        - name: Every Program There Is, Part Eight
+          href: 2010/5/20/every-program-there-is-part-eight.md
+        - name: Every Program There Is, Part Nine
+          href: 2010/5/24/every-program-there-is-part-nine.md
+        - name: More Boring Metablogging
+          href: 2010/5/25/more-boring-metablogging.md
+        - name: Cast operators do not obey the distributive law
+          href: 2010/5/27/cast-operators-do-not-obey-the-distributive-law.md
+        - name: The traveling developer
+          href: 2010/5/31/the-traveling-developer.md
+    - name: June
+      items:
+        - name: Continuous as the stars
+          href: 2010/6/3/continuous-as-the-stars.md
+        - name: Better late than never
+          href: 2010/6/7/better-late-than-never.md
+        - name: Live from New Orleans
+          href: 2010/6/8/live-from-new-orleans.md
+        - name: Don't repeat yourself; consts are already static
+          href: 2010/6/10/dont-repeat-yourself-consts-are-already-static.md
+        - name: Hide and seek
+          href: 2010/6/14/hide-and-seek.md
+        - name: Travelogue
+          href: 2010/6/22/travelogue.md
+        - name: Computing a Cartesian Product with LINQ
+          href: 2010/6/28/computing-a-cartesian-product-with-linq.md
+    - name: July
+      items:
+        - name: Murky Research
+          href: 2010/7/1/murky-research.md
+        - name: Spoiler Alert
+          href: 2010/7/8/spoiler-alert.md
+        - name: Graph Colouring With Simple Backtracking, Part One
+          href: 2010/7/12/graph-colouring-with-simple-backtracking-part-one.md
+        - name: Graph Colouring With Simple Backtracking, Part Two
+          href: 2010/7/15/graph-colouring-with-simple-backtracking-part-two.md
+        - name: Graph Colouring with Simple Backtracking, Part Three
+          href: 2010/7/22/graph-colouring-with-simple-backtracking-part-three.md
+        - name: Graph Colouring, Part Four
+          href: 2010/7/26/graph-colouring-part-four.md
+        - name: Graph Colouring, Part Five
+          href: 2010/7/29/graph-colouring-part-five.md
+    - name: September
+      items:
+        - name: Old school tree display
+          href: 2010/9/9/old-school-tree-display.md
+        - name: Eric's solution for old school tree dumping
+          href: 2010/9/9/erics-solution-for-old-school-tree-dumping.md
+        - name: Teach Yourself C# In... how long?
+          href: 2010/9/13/teach-yourself-c-in-how-long.md
+        - name: Is is as or is as is?
+          href: 2010/9/16/is-is-as-or-is-as-is.md
+        - name: Ambiguous Optional Parentheses, Part One
+          href: 2010/9/20/ambiguous-optional-parentheses-part-one.md
+        - name: Ambiguous Optional Parentheses, Part Two
+          href: 2010/9/23/ambiguous-optional-parentheses-part-two.md
+        - name: Ambiguous Optional Parentheses, Part Three
+          href: 2010/9/27/ambiguous-optional-parentheses-part-three.md
+        - name: The Truth About Value Types
+          href: 2010/9/30/the-truth-about-value-types.md
+    - name: October
+      items:
+        - name: No backtracking, Part One
+          href: 2010/10/4/no-backtracking-part-one.md
+        - name: No Backtracking, Part Two
+          href: 2010/10/7/no-backtracking-part-two.md
+        - name: Debunking another myth about value types
+          href: 2010/10/11/debunking-another-myth-about-value-types.md
+        - name: Eric Lippert, from Microsoft?
+          href: 2010/10/18/eric-lippert-from-microsoft.md
+        - name: Continuation Passing Style Revisited, Part One
+          href: 2010/10/21/continuation-passing-style-revisited-part-one.md
+        - name: >-
+                Continuation Passing Style Revisited Part Two: Handwaving about control flow
+          href: 2010/10/22/continuation-passing-style-revisited-part-two-handwaving-about-control-flow.md
+        - name: >-
+                Continuation Passing Style Revisited Part Three: Musings about coroutines
+          href: 2010/10/25/continuation-passing-style-revisited-part-three-musings-about-coroutines.md
+        - name: >-
+                Continuation Passing Style Revisited Part Four: Turning yourself inside out
+          href: 2010/10/26/continuation-passing-style-revisited-part-four-turning-yourself-inside-out.md
+        - name: >-
+                Continuation Passing Style Revisited Part Five: CPS and Asynchrony
+          href: 2010/10/27/continuation-passing-style-revisited-part-five-cps-and-asynchrony.md
+        - name: Asynchrony in C# 5, Part One
+          href: 2010/10/28/asynchrony-in-c-5-part-one.md
+        - name: >-
+                Asynchronous Programming in C# 5.0 part two: Whence await?
+          href: 2010/10/29/asynchronous-programming-in-c-5-0-part-two-whence-await.md
+    - name: November
+      items:
+        - name: >-
+                Asynchrony in C# 5, Part Three: Composition
+          href: 2010/11/1/asynchrony-in-c-5-part-three-composition.md
+        - name: >-
+                Asynchrony in C# 5.0 part Four: It's not magic
+          href: 2010/11/4/asynchrony-in-c-5-0-part-four-its-not-magic.md
+        - name: >-
+                Asynchrony in C# 5 Part Five: Too many tasks
+          href: 2010/11/8/asynchrony-in-c-5-part-five-too-many-tasks.md
+        - name: >-
+                Asynchrony in C# 5 Part Six: Whither async?
+          href: 2010/11/11/asynchrony-in-c-5-part-six-whither-async.md
+        - name: The Annotated Fourth Edition is available
+          href: 2010/11/15/the-annotated-fourth-edition-is-available.md
+        - name: >-
+                Asynchrony in C# 5, Part Seven: Exceptions
+          href: 2010/11/19/asynchrony-in-c-5-part-seven-exceptions.md
+        - name: >-
+                Asynchrony in C# 5, Part Eight: More Exceptions
+          href: 2010/11/23/asynchrony-in-c-5-part-eight-more-exceptions.md
+        - name: >-
+                Bit twiddling: What does warning CS0675 mean?
+          href: 2010/11/29/bit-twiddling-what-does-warning-cs0675-mean.md
+    - name: December
+      items:
+        - name: Big head, long tail
+          href: 2010/12/6/big-head-long-tail.md
+        - name: All your base do not belong to you
+          href: 2010/12/13/all-your-base-do-not-belong-to-you.md
+        - name: Hiring for Roslyn
+          href: 2010/12/16/hiring-for-roslyn.md
+        - name: Why are anonymous types generic?
+          href: 2010/12/20/why-are-anonymous-types-generic.md
+  - name: All of 2011
+    items:
+    - name: January
+      items:
+        - name: Enormous Explosions
+          href: 2011/1/10/enormous-explosions.md
+        - name: Not as easy as it looks
+          href: 2011/1/13/not-as-easy-as-it-looks.md
+        - name: Not as easy as it looks, Part Two
+          href: 2011/1/17/not-as-easy-as-it-looks-part-two.md
+        - name: >-
+                Spot the defect: Bad comparisons, part one
+          href: 2011/1/20/spot-the-defect-bad-comparisons-part-one.md
+        - name: >-
+                Spot the defect: Bad comparisons, part two
+          href: 2011/1/24/spot-the-defect-bad-comparisons-part-two.md
+        - name: >-
+                Spot the defect: Bad comparisons, part three
+          href: 2011/1/27/spot-the-defect-bad-comparisons-part-three.md
+        - name: >-
+                Spot the defect: Bad comparisons, part four
+          href: 2011/1/31/spot-the-defect-bad-comparisons-part-four.md
+    - name: February
+      items:
+        - name: Curiouser and curiouser
+          href: 2011/2/3/curiouser-and-curiouser.md
+        - name: Strange, but legal
+          href: 2011/2/7/strange-but-legal.md
+        - name: Optional arguments on both ends
+          href: 2011/2/10/optional-arguments-on-both-ends.md
+        - name: What would Feynman do?
+          href: 2011/2/14/what-would-feynman-do.md
+        - name: Looking inside a double
+          href: 2011/2/17/looking-inside-a-double.md
+        - name: Never Say Never, Part One
+          href: 2011/2/21/never-say-never-part-one.md
+        - name: Never Say Never, Part Two
+          href: 2011/2/24/never-say-never-part-two.md
+        - name: Guidelines and rules for GetHashCode
+          href: 2011/2/28/guidelines-and-rules-for-gethashcode.md
+    - name: March
+      items:
+        - name: Danger, Will Robinson!
+          href: 2011/3/3/danger-will-robinson.md
+        - name: References and Pointers, Part One
+          href: 2011/3/7/references-and-pointers-part-one.md
+        - name: References and Pointers, Part Two
+          href: 2011/3/10/references-and-pointers-part-two.md
+        - name: To box or not to box, that is the question
+          href: 2011/3/14/to-box-or-not-to-box-that-is-the-question.md
+        - name: Implementing the virtual method pattern in C#, Part One
+          href: 2011/3/17/implementing-the-virtual-method-pattern-in-c-part-one.md
+        - name: Implementing the virtual method pattern in C#, Part Two
+          href: 2011/3/21/implementing-the-virtual-method-pattern-in-c-part-two.md
+        - name: Implementing the virtual method pattern in C#, Part Three
+          href: 2011/3/24/implementing-the-virtual-method-pattern-in-c-part-three.md
+        - name: Compound Assignment, Part One
+          href: 2011/3/29/compound-assignment-part-one.md
+        - name: Dot NET Rocks!
+          href: 2011/3/30/dot-net-rocks.md
+    - name: April
+      items:
+        - name: Compound Assignment, Part Two
+          href: 2011/4/1/compound-assignment-part-two.md
+        - name: So many interfaces!
+          href: 2011/4/4/so-many-interfaces.md
+        - name: Happy birthday Channel 9!
+          href: 2011/4/6/happy-birthday-channel-9.md
+        - name: Refreshing the Async CTP
+          href: 2011/4/13/refreshing-the-async-ctp.md
+        - name: Uses and misuses of implicit typing
+          href: 2011/4/20/uses-and-misuses-of-implicit-typing.md
+        - name: Maybe there's something wrong with the universe, but probably not
+          href: 2011/4/25/maybe-theres-something-wrong-with-the-universe-but-probably-not.md
+    - name: May
+      items:
+        - name: Optional argument corner cases, part one
+          href: 2011/5/9/optional-argument-corner-cases-part-one.md
+        - name: Optional argument corner cases, part two
+          href: 2011/5/12/optional-argument-corner-cases-part-two.md
+        - name: Optional argument corner cases, part three
+          href: 2011/5/16/optional-argument-corner-cases-part-three.md
+        - name: Optional argument corner cases, part four
+          href: 2011/5/19/optional-argument-corner-cases-part-four.md
+        - name: Read-only and threadsafe are different
+          href: 2011/5/23/read-only-and-threadsafe-are-different.md
+        - name: Atomicity, volatility and immutability are different, part one
+          href: 2011/5/26/atomicity-volatility-and-immutability-are-different-part-one.md
+        - name: Atomicity, volatility and immutability are different, part two
+          href: 2011/5/31/atomicity-volatility-and-immutability-are-different-part-two.md
+    - name: June
+      items:
+        - name: Atomicity, volatility and immutability are different, part three
+          href: 2011/6/16/atomicity-volatility-and-immutability-are-different-part-three.md
+        - name: Ref returns and ref locals
+          href: 2011/6/23/ref-returns-and-ref-locals.md
+        - name: Following the pattern
+          href: 2011/6/30/following-the-pattern.md
+    - name: July
+      items:
+        - name: My Buddy Neil Totally Agrees With Me
+          href: 2011/7/8/my-buddy-neil-totally-agrees-with-me.md
+        - name: What curious property does this string have?
+          href: 2011/7/12/what-curious-property-does-this-string-have.md
+        - name: The curious property revealed
+          href: 2011/7/15/the-curious-property-revealed.md
+        - name: Strings, immutability and persistence
+          href: 2011/7/19/strings-immutability-and-persistence.md
+        - name: I'm glad and sad that that's over
+          href: 2011/7/21/im-glad-and-sad-that-thats-over.md
+    - name: August
+      items:
+        - name: Funniest Hungarian Joke Ever
+          href: 2011/8/22/funniest-hungarian-joke-ever.md
+        - name: What is this thing you call a "type"? Part one
+          href: 2011/8/29/what-is-this-thing-you-call-a-type-part-one.md
+    - name: September
+      items:
+        - name: What is this thing you call a "type"? Part Two
+          href: 2011/9/7/what-is-this-thing-you-call-a-type-part-two.md
+        - name: Inheritance and Representation
+          href: 2011/9/19/inheritance-and-representation.md
+        - name: Keep it secret, keep it safe
+          href: 2011/9/27/keep-it-secret-keep-it-safe.md
+    - name: October
+      items:
+        - name: Async articles
+          href: 2011/10/3/async-articles.md
+        - name: Insanely great
+          href: 2011/10/6/insanely-great.md
+        - name: The Roslyn Preview Is Now Available
+          href: 2011/10/19/the-roslyn-preview-is-now-available.md
+    - name: November
+      items:
+        - name: Breaking changes and named arguments
+          href: 2011/11/7/breaking-changes-and-named-arguments.md
+        - name: A C# Reading List
+          href: 2011/11/10/a-c-reading-list.md
+        - name: Why IL?
+          href: 2011/11/18/why-il.md
+        - name: Why have a stack?
+          href: 2011/11/28/why-have-a-stack.md
+    - name: December
+      items:
+        - name: What's the difference? Remainder vs Modulus
+          href: 2011/12/5/whats-the-difference-remainder-vs-modulus.md
+        - name: So many interfaces, part two
+          href: 2011/12/8/so-many-interfaces-part-two.md
+        - name: Roguelike people
+          href: 2011/12/9/roguelike-people.md
+        - name: Shadowcasting in C#, Part One
+          href: 2011/12/12/shadowcasting-in-c-part-one.md
+        - name: Shadowcasting in C#, Part Two
+          href: 2011/12/15/shadowcasting-in-c-part-two.md
+        - name: Shadowcasting in C#, Part Three
+          href: 2011/12/19/shadowcasting-in-c-part-three.md
+        - name: Shadowcasting in C#, Part Four
+          href: 2011/12/22/shadowcasting-in-c-part-four.md
+        - name: Shadowcasting in C#, Part Five
+          href: 2011/12/27/shadowcasting-in-c-part-five.md
+        - name: Shadowcasting in C#, Part Six
+          href: 2011/12/29/shadowcasting-in-c-part-six.md
+  - name: All of 2012
+    items:
+    - name: January
+      items:
+        - name: He's So Dreamy
+          href: 2012/1/2/hes-so-dreamy.md
+        - name: Every public change is a breaking change
+          href: 2012/1/9/every-public-change-is-a-breaking-change.md
+        - name: What is the defining characteristic of a local variable?
+          href: 2012/1/16/what-is-the-defining-characteristic-of-a-local-variable.md
+        - name: Anonymous types unify within an assembly, Part One
+          href: 2012/1/23/anonymous-types-unify-within-an-assembly-part-one.md
+        - name: Anonymous Types Unify Within An Assembly, Part Two
+          href: 2012/1/30/anonymous-types-unify-within-an-assembly-part-two.md
+    - name: February
+      items:
+        - name: What's the difference? Trenchcoat vs Duster
+          href: 2012/2/3/whats-the-difference-trenchcoat-vs-duster.md
+        - name: What is "binding" and what makes it late?
+          href: 2012/2/6/what-is-binding-and-what-makes-it-late.md
+        - name: Bad Metaphors
+          href: 2012/2/13/bad-metaphors.md
+        - name: Generating Random Non-Uniform Data In C#
+          href: 2012/2/21/generating-random-non-uniform-data-in-c.md
+        - name: A Simple Puzzle
+          href: 2012/2/24/a-simple-puzzle.md
+        - name: The Solution To The Simple Puzzle
+          href: 2012/2/27/the-solution-to-the-simple-puzzle.md
+        - name: The C# 5.0 beta release is now available
+          href: 2012/2/29/the-c-5-0-beta-release-is-now-available.md
+    - name: March
+      items:
+        - name: Why are local variables definitely assigned in unreachable statements?
+          href: 2012/3/5/why-are-local-variables-definitely-assigned-in-unreachable-statements.md
+        - name: Why not automatically infer constraints?
+          href: 2012/3/9/why-not-automatically-infer-constraints.md
+        - name: null is not false
+          href: 2012/3/26/null-is-not-false.md
+    - name: April
+      items:
+        - name: null is not false, part two
+          href: 2012/4/12/null-is-not-false-part-two.md
+        - name: A brief digression
+          href: 2012/4/17/a-brief-digression.md
+        - name: null is not false, part three
+          href: 2012/4/19/null-is-not-false-part-three.md
+        - name: GUID Guide, part one
+          href: 2012/4/24/guid-guide-part-one.md
+        - name: GUID guide, part two
+          href: 2012/4/30/guid-guide-part-two.md
+    - name: May
+      items:
+        - name: GUID guide, part three
+          href: 2012/5/7/guid-guide-part-three.md
+        - name: Past performance is no guarantee of future results
+          href: 2012/5/31/past-performance-is-no-guarantee-of-future-results.md
+    - name: June
+      items:
+        - name: Announcing Microsoft Roslyn June 2012 CTP
+          href: 2012/6/5/announcing-microsoft-roslyn-june-2012-ctp.md
+        - name: Persistence, Facades and Roslyn's Red-Green Trees
+          href: 2012/6/8/persistence-facades-and-roslyns-red-green-trees.md
+        - name: Implementation-defined behaviour
+          href: 2012/6/18/implementation-defined-behaviour.md
+        - name: Eric Rambles On About C#, Again
+          href: 2012/6/21/eric-rambles-on-about-c-again.md
+        - name: Foolish consistency is foolish
+          href: 2012/6/25/foolish-consistency-is-foolish.md
+        - name: The Best Advice I Ever Got
+          href: 2012/6/27/the-best-advice-i-ever-got.md
+    - name: July
+      items:
+        - name: When is a cast not a cast?
+          href: 2012/7/10/when-is-a-cast-not-a-cast.md
+        - name: Should C# warn on null dereference?
+          href: 2012/7/17/should-c-warn-on-null-dereference.md
+    - name: August
+      items:
+        - name: Out parameters and LINQ do not mix
+          href: 2012/8/14/out-parameters-and-linq-do-not-mix.md
+        - name: Wackiness ensues
+          href: 2012/8/17/wackiness-ensues.md
+        - name: An "is" operator puzzle, part one
+          href: 2012/8/23/an-is-operator-puzzle-part-one.md
+        - name: Fabulous Adventures In Casting
+          href: 2012/8/27/fabulous-adventures-in-casting.md
+        - name: An "is" operator puzzle, part two
+          href: 2012/8/27/an-is-operator-puzzle-part-two.md
+    - name: September
+      items:
+        - name: Static analysis of "is"
+          href: 2012/9/12/static-analysis-of-is.md
+        - name: Roslyn September 2012 CTP is now available
+          href: 2012/9/17/roslyn-september-2012-ctp-is-now-available.md
+    - name: October
+      items:
+        - name: How do we ensure that method type inference terminates?
+          href: 2012/10/2/how-do-we-ensure-that-method-type-inference-terminates.md
+        - name: Does Not Compute
+          href: 2012/10/10/does-not-compute.md
+        - name: High Altitude
+          href: 2012/10/12/high-altitude.md
+        - name: Is C# a strongly typed or a weakly typed language?
+          href: 2012/10/15/is-c-a-strongly-typed-or-a-weakly-typed-language.md
+        - name: A method group of one
+          href: 2012/10/22/a-method-group-of-one.md
+    - name: November
+      items:
+        - name: Dynamic contagion, part one
+          href: 2012/11/5/dynamic-contagion-part-one.md
+        - name: Dynamic contagion, part two
+          href: 2012/11/8/dynamic-contagion-part-two.md
+        - name: It's still essential!
+          href: 2012/11/9/its-still-essential.md
+        - name: Why is deriving a public class from an internal class illegal?
+          href: 2012/11/13/why-is-deriving-a-public-class-from-an-internal-class-illegal.md
+        - name: A new fabulous adventure
+          href: 2012/11/29/a-new-fabulous-adventure.md
+
