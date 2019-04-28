@@ -1,8 +1,14 @@
+<div id="page">
+
 # Travelogue
 
 [Eric Lippert](https://social.msdn.microsoft.com/profile/Eric%20Lippert) 6/22/2010 6:42:00 AM
 
 -----
+
+<div id="content">
+
+<div class="mine">
 
 I've just returned from a week in Oslo, Norway, where I spoke at NDC 2010, immediately following a week in New Orleans, where I spoke at TechEd. I'm about nine hours jetlagged and glad to be home, though I had a lovely time. Many thanks in particular to all the NDC organizers who made it all happen; I felt very welcomed.
 
@@ -14,7 +20,7 @@ The rest of today's post is some disjointed commentary on various aspects of New
 
   - It is *hot*. And it's not just the temperature; it's the dew point. The humidity is what really gets you.
   - Do not, I repeat *do not* get into a taxi in New Orleans without a map, an address and detailed turn-by-turn directions to get you where you're going. We had cab drivers who did not know the way from the corner of Canal and Bourbon to major landmarks, famous clubs and large downtown hotels.
-  - I knew it would be good, but in fact the jazz and blues music in New Orleans is *incredible*, in both its quantity and quality. In particular, we had a happy accident; due to the inability of our cab driver to find a particular club we ended up going to House of Blues instead and we just decided we'd see whoever was playing. The headliner that night was [Tommy Emmanuel](http://www.tommyemmanuel.com/), who I'd never heard of but who was introduced as "the greatest acoustic guitar player in the world". That's because he's the *[greatest freakin' acoustic guitar player in the world](http://en.wikipedia.org/wiki/Tommy_Emmanuel#awards)*. I had no idea that some of those sounds could come out of a single six-string guitar played by a[single ten-fingered guitarist](https://www.youtube.com/watch?v=mYzajpeAWuA&feature=related). On the stage at the beginning of the show are four acoustic guitars: one is a pristine Gibson from the 1930s and the others all look like hell. In fact, they look like they have been repeatedly attacked by a lunatic wielding a wire brush. That's because they've been [repeatedly attacked by a genius wielding a wire brush](https://www.youtube.com/watch?v=GZzUCuCosnE).
+  - I knew it would be good, but in fact the jazz and blues music in New Orleans is *incredible*, in both its quantity and quality. In particular, we had a happy accident; due to the inability of our cab driver to find a particular club we ended up going to House of Blues instead and we just decided we'd see whoever was playing. The headliner that night was [Tommy Emmanuel](http://www.tommyemmanuel.com/), who I'd never heard of but who was introduced as "the greatest acoustic guitar player in the world". That's because he's the *[greatest freakin' acoustic guitar player in the world](http://en.wikipedia.org/wiki/Tommy_Emmanuel#awards)*. I had no idea that some of those sounds could come out of a single six-string guitar played by a [single ten-fingered guitarist](https://www.youtube.com/watch?v=mYzajpeAWuA&feature=related). On the stage at the beginning of the show are four acoustic guitars: one is a pristine Gibson from the 1930s and the others all look like hell. In fact, they look like they have been repeatedly attacked by a lunatic wielding a wire brush. That's because they've been [repeatedly attacked by a genius wielding a wire brush](https://www.youtube.com/watch?v=GZzUCuCosnE).
   - House of Blues will not tell you that they're selling you standing-room-only tickets when there are no seats left. Nor will they open up the balcony seating. (I was initially irked at how much I paid for SRO but thirty seconds into Tommy's set I no longer cared.)
   - The drunken-frat-boys-yelling-all-night party is on Bourbon Street. The far more enjoyable impromptu-poetry-slam-and-amazing-jazz-jam party is on Frenchman Street, just to the east of the French Quarter. (Basin Street, Basin Street does not appear to at present be the street, the street where all the folks meet down in New Orleans, the land of dreams, and you'll never know how much it means.)
   - Beignets at Cafe Du Monde taste very much like fried dough with sugar on it.
@@ -30,4 +36,10 @@ The rest of today's post is some disjointed commentary on various aspects of New
   - The sheer amount of stone in Oslo is quite amazing. Almost everything at street level that I typically think of as being made out of concrete in Seattle is made out of solid blocks of granite in Oslo. Bizarrely enough, given how much high quality stone there must be in Norway, the facade stone for the opera house was imported from Italy. One would think that they'd want to keep all that oil money in the country.
 
 Anyway, we had a delightful time in both places, but it's good to be back.
+
+</div>
+
+</div>
+
+</div>
 

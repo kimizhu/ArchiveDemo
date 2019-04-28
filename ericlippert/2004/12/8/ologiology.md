@@ -1,8 +1,14 @@
+<div id="page">
+
 # Ologiology
 
 [Eric Lippert](https://social.msdn.microsoft.com/profile/Eric%20Lippert) 12/8/2004 3:18:00 PM
 
 -----
+
+<div id="content">
+
+<div class="mine">
 
 No technology today -- but, hey, where does that word "technology" come from, anyway?
 
@@ -19,4 +25,10 @@ Both come from the same Greek root, λογος meaning "saying", or "words" or "
 Here's another interesting fact about -logies: you can guess how old an -logy word is in English by whether someone who studies it is a -logist (modern) or -logian (old), or -logue (quite old), -loger (realy very old indeed).
 
 Try it\! People who study religion are theologians, or, now obsolete, theologues, but never theologists. People who stick to a rigid ideology are sometimes ideologues, but these days more often ideologists. People who study insects are entomologists, not entomologians, entomologers, or entomologues; entomology is a relatively new -logy word. Doesn't "entomologian" sound a lot more archaic? People who study astrology are astrologers, a very old word indeed, entering English in the 14th century. New -logy words -- and we're getting new ones all the time -- practically always use -logist these days, and lots of the old ones are transmogrifying into -logist, if they haven't already.
+
+</div>
+
+</div>
+
+</div>
 
